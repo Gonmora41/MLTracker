@@ -28,6 +28,13 @@ The information used by this project comes from two websites:
 The most important thing about this project was getting the right data from the web pages. Here is the code used to do so:
 
 ```python
+# The libraries:
+from bs4 import BeautifulSoup
+import requests
+import datetime
+import pandas as pd
+import csv
+
 url = "Here goes the link of the product you want to track. Right below is the example I used"
 
 # 'https://articulo.mercadolibre.com.ar/MLA-1185361297-tijera-multiuso-de-acero-inoxidable-rompenueces-bremen-7721-_JM#reco_item_pos=0&reco_backend=machinalis-attributes-p2p&reco_backend_type=function&reco_client=home_cart-recommendations&reco_id=dff86d5e-c6f3-4018-a2fc-b3f086e76a0a'
