@@ -25,6 +25,8 @@ The information used by this project comes from two websites:
 
 ### Preparation
 
+EDIT: This is the key code used to create the file. In the updated version, every part is an independent function.
+
 The most important thing about this project was getting the right data from the web pages. Here is the code used to do so:
 
 ```python
@@ -168,7 +170,6 @@ while(True):
 
 ### Further improvements
 
-- Allow the user to input the links of the products they want when it starts instead of pre-loading it in the code.
 - Send you an email if the price drop below certain threshold
 - Track the percentage of the change in price
 
