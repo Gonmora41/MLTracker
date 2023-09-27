@@ -181,5 +181,5 @@ while(True):
 
 ### References
 
-- The main idea of this project came from the youtuber [@AlexTheAnalyst](https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg).
+- The main idea of this project came from the [@AlexTheAnalyst](https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg) Youtube channel.
 - I used the help of [ChatGPT](https://chat.openai.com/) for some configurations as well
