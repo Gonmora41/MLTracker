@@ -2,6 +2,12 @@
 
 ## Table of Contents
 
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Preparation](#preparation)
+- [Limitations](#limitations)
+- [References](#references)
 
 ### Project Overview
 This project aims to track the price of any good from MercadoLibre into a dataset that also contains its value in USD. It does so by leveraging the power of Python's web scrapping capabilities. 
